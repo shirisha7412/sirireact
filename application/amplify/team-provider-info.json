@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-saanviproject-dev-102800-authRole",
+      "UnauthRoleArn": "arn:aws:iam::530267673662:role/amplify-saanviproject-dev-102800-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::530267673662:role/amplify-saanviproject-dev-102800-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-saanviproject-dev-102800-deployment",
+      "UnauthRoleName": "amplify-saanviproject-dev-102800-unauthRole",
+      "StackName": "amplify-saanviproject-dev-102800",
+      "StackId": "arn:aws:cloudformation:us-east-2:530267673662:stack/amplify-saanviproject-dev-102800/5b4e5890-6fce-11ec-a423-06221c76310c",
+      "AmplifyAppId": "d1gc897ldpr3o9"
+    },
+    "categories": {
+      "auth": {
+        "saanviproject088836d0": {}
+      }
+    }
+  }
+}
